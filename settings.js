@@ -44,7 +44,7 @@ global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
 // Alive massage , ඔබේ බොගේ alive massage  එක මෙහි ඇති ` ` මෙම ලකුනු ඇතුලේ ඔබට අවශ්‍ය ඔනිම දෙයක් Type කරන්න.💃
-global.alivelogo = `https://telegra.ph/HHzhs-07-08`
+global.alivelogo = `https://telegra.ph/file/3ae52f2f591491758179b.jpg`
 global.alive =`Hello i am alive now
 
 Download song type .yt 
